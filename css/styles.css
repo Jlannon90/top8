@@ -1,0 +1,52 @@
+#daddy {
+  background-color: #ffce99;
+  color: #cd6c35;
+  padding: 7px;
+  font-weight: bold;
+}
+
+#son {
+  font-weight: bold;
+  margin-left: 7px;
+}
+
+.name {
+  color: #3550b9;
+  font-weight: bold;
+  text-align: center;
+  }
+
+
+.devil-number {
+  color: #fd4525;
+  font-weight: normal;
+  }
+
+.devil-words {
+  color: #fd4525;
+  font-weight: bold;
+  float: right;
+}
+
+.picture {
+  border: 2px solid #3550b9;
+}
+
+.person {
+  float: left;
+  margin-left: 3%;
+}
+
+.online {
+  text-align: center;
+  color: #489445;
+  font-size: 10px;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.row {
+  margin-left: 10px;
+}
